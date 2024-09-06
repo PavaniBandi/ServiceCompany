@@ -151,3 +151,10 @@ header {
 .get-started-btn {
   margin-top: 20px;
 }
+
+.logos {
+  justify-content: space-between;
+}
+.logo {
+  height: 46px;
+}
